@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cursed_jungle_model",
+  "textures": {
+    "end": "minecraft:block/jungle_log_top",
+    "side": "minecraft:block/jungle_log"
+  }
+}

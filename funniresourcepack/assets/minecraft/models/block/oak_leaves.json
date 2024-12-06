@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/leaves",
+	"textures": {
+		"all": "block/oak_leaves"
+	}
+}

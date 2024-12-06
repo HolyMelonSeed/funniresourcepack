@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cursed_obsidian",
+  "textures": {
+    "all": "minecraft:block/obsidian"
+  }
+}

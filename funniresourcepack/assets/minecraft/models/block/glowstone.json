@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/rotated_glowstone",
+  "textures": {
+    "all": "minecraft:block/glowstone"
+  }
+}
